@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92565942877",
+    "project_id": "auth-f8cde",
+    "storage_bucket": "auth-f8cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92565942877:android:3f5bb778b3276e79a353b4",
+        "android_client_info": {
+          "package_name": "com.example.mydiary10119255"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92565942877-3s52tqvel9bu423oroj0rvt7lpui8cnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ijffS2pQUwm0XsoiYW0o6Ojp9F24go4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92565942877-3s52tqvel9bu423oroj0rvt7lpui8cnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
